@@ -21,7 +21,7 @@ Une application web de gestion de tâches développée en PHP, MariaDB et Apache
 
 1. Clone le projet
 \`\`\`bash
-git clone https://github.com/TON_USERNAME/taskmanager.git
+git clone https://github.com/vatsyyy/taskmanager.git
 \`\`\`
 
 2. Copie le fichier de configuration
