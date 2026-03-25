@@ -1,0 +1,11 @@
+#Empêcher l'accès direct à traitement.php et traitement_auth.php
+<Files "traitement.php">
+    Deny from all
+</Files>
+
+<Files "traitement_auth.php">
+    Deny from all
+</Files>
+
+#Désactiver l'affichage des fichiers du dossier
+Options -Indexes
